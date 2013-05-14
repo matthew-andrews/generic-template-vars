@@ -1,0 +1,16 @@
+{
+  "name": "ftfruit-vars",
+  "version": "0.0.0",
+  "description": "Common vars for styling FT looking stuff",
+  "main": "_vars.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-andrews/ftfruit-vars.git"
+  },
+  "author": "Wilson Page",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}

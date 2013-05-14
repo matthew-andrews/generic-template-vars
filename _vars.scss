@@ -1,0 +1,75 @@
+
+/*=========================================================================
+  Vars
+ ========================================================================== */
+
+/* Colours
+ -------------------------------------------------------------------------- */
+
+$color-blue: #4781AA;
+$color-blue-dark: #002F5F;
+$color-weekend-red: #D2232A;
+$color-magazine: #126FCC;
+$color-house-and-home: #00A057;
+$color-life-and-arts: #92278F;
+$color-dark-text: #333;
+$color-medium-text: #505050;
+$color-light-text: #777;
+$color-pink: #FFF1E0;
+$color-claret: #9E2F50;
+$color-pink-tint-1: #F6E9D8;
+$color-pink-tint-2: #E9DECF;
+$color-warm-grey-1: #A7A59B;
+$color-warm-grey-2: #74736C;
+$color-market-up: #458B00;
+$color-market-down: #C00;
+$color-myft-grey-dark: #4A4943;
+
+/* Padding
+ -------------------------------------------------------------------------- */
+
+$padding: 14px;
+$padding-200: $padding * 2;
+$padding-150: $padding * 1.5;
+$padding-75: $padding * 0.75;
+$padding-50: $padding * 0.5;
+$padding-25: $padding * 0.25;
+
+/* Dimenisons
+ -------------------------------------------------------------------------- */
+
+$app-rail-width: 242px;
+$app-rail-width-wide: 306px;
+$app-anklet-height: 210px;
+
+/* Borders
+ -------------------------------------------------------------------------- */
+
+$border-dotted: dotted 1px $color-warm-grey-1;
+$dotted-border-darker: dotted 1px $color-warm-grey-1;
+$border-thick: solid 3px $color-warm-grey-1;
+
+/* Border Radius
+ -------------------------------------------------------------------------- */
+
+$border-radius: 3px;
+
+/* Text Shadow
+ -------------------------------------------------------------------------- */
+
+$text-shadow-dark: 1px 1px 0 rgba(0,0,0,0.35);
+
+/*=========================================================================
+  Fonts
+ ========================================================================== */
+
+// Sizes
+$app-font-size: 14px;
+$app-line-height: 1.3;
+$app-line-height-px: $app-font-size * $app-line-height;
+
+// Families
+$font-sans: 'BentonSans', 'Arial', 'sans-serif';
+$font-serif-headline: 'MillerDisplay';
+$font-serif-body: 'Clarion';
+$font-icon: 'ft-icons';
