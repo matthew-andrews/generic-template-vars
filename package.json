@@ -12,5 +12,8 @@
   },
   "author": "Wilson Page",
   "license": "BSD",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "sass-import-once": "git://github.com/wilsonpage/sass-import-once.git"
+  }
 }

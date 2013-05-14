@@ -1,7 +1,15 @@
 
-/*=========================================================================
-  Vars
- ========================================================================== */
+/**
+ * Module Dependencies
+ */
+
+@import 'node_modules/sass-import-once/sass-import-once';
+
+/**
+ * Exports
+ */
+
+@include exports('reset') {
 
 /* Colours
  -------------------------------------------------------------------------- */
@@ -73,3 +81,5 @@ $font-sans: 'BentonSans', 'Arial', 'sans-serif';
 $font-serif-headline: 'MillerDisplay';
 $font-serif-body: 'Clarion';
 $font-icon: 'ft-icons';
+
+}
