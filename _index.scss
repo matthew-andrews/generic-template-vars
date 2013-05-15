@@ -1,16 +1,4 @@
 
-/**
- * Module Dependencies
- */
-
-@import 'node_modules/sass-import-once/sass-import-once';
-
-/**
- * Exports
- */
-
-@include exports('reset') {
-
 /* Colours
  -------------------------------------------------------------------------- */
 
@@ -67,19 +55,9 @@ $border-radius: 3px;
 
 $text-shadow-dark: 1px 1px 0 rgba(0,0,0,0.35);
 
-/*=========================================================================
-  Fonts
- ========================================================================== */
+/* Fonts
+ -------------------------------------------------------------------------- */
 
-// Sizes
 $app-font-size: 14px;
 $app-line-height: 1.3;
 $app-line-height-px: $app-font-size * $app-line-height;
-
-// Families
-$font-sans: 'BentonSans', 'Arial', 'sans-serif';
-$font-serif-headline: 'MillerDisplay';
-$font-serif-body: 'Clarion';
-$font-icon: 'ft-icons';
-
-}
