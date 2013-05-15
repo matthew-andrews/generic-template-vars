@@ -1,6 +1,6 @@
 {
   "name": "ftfruit-vars",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "description": "Common vars for styling FT looking stuff",
   "main": "_vars.scss",
   "scripts": {
